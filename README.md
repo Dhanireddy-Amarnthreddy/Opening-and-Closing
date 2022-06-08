@@ -8,24 +8,24 @@ To implement Opening and Closing using Python and OpenCV.
 2. OpenCV
 ## Algorithm:
 Step 1:
-### Import the necessary packages.<br>
+## Import the necessary packages.<br>
 
-### Step 2:
+## Step 2:
 Create the Text using cv2.putText.<br>
 
-### Step 3:
+## Step 3:
 Create the structuring element.<br>
 
-### Step 4:
+## Step 4:
 Use Opening operation.<br>
 
-### Step 5:
+## Step 5:
 Use Closing Operation.<br>
 
  
 ## Program:
-## developed by: Amarnath Reddy.<br>
-## regestration no:212221240012.<br>
+## Developed by: Amarnath Reddy.<br>
+## Regestration no:212221240012.<br>
 
 ``` Python
 # Import the necessary packages
